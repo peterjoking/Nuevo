@@ -1,0 +1,3 @@
+Este un texto que fué creado a través del programa python usando
+ el programa PyChar
+Esta es una línea mas de texto que fué agregada con otro programa de Python

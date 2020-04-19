@@ -1,0 +1,3 @@
+Esto es el ejemplo de escritura a través de un programa que utiliza el 
+modulo de otro programa estoy probando varias líneas
+Este es otra linea con otro texto que fué agregado
