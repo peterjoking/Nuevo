@@ -1,0 +1,1 @@
+Ejercicio de lectura de fichero, primer intento colocando en la misma carpeta donde está el programa.
